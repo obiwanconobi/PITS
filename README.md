@@ -1,7 +1,7 @@
 
 # PITS IT Management System
 
-Created by me, for me. But will eventually open source.
+Created by me, for me. But will eventually expand to be more useful.
 
 The device management side is working as needed for me at the minute, I can see up to date information about devices such as CPU Load, Disk Information, RAM Usage and installed applications (Windows Only).
 
