@@ -45,7 +45,7 @@ Created by me, for me. But will eventually open source.
 ![Dialog for Disk Information](https://raw.githubusercontent.com/obiwanconobi/PITS/main/DiskInfo1.png)
 
 **Installed Apps**
-![Dialog for Installed Apps](https://raw.githubusercontent.com/obiwanconobi/PITS/main/InstalledAppsSearch.png)
+![Dialog for Installed Apps](https://raw.githubusercontent.com/obiwanconobi/PITS/main/installedAppsSearch.png)
 
 **Ticket Dialog**
 ![Dialog for replying to Tickets](https://raw.githubusercontent.com/obiwanconobi/PITS/main/TicketDialog.png)
