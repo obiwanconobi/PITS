@@ -18,6 +18,8 @@ Created by me, for me. But will eventually open source.
 
 **DB:** MySQL
 
+**Hosting:** Docker
+
 
 ## Features
 
