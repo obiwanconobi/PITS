@@ -27,3 +27,12 @@ Created by me, for me. But will eventually open source.
 - Auth0 User Management
 - Ticket Management
 
+## Screenshots
+
+**Home Page**
+
+![Home Page for PITS](https://raw.githubusercontent.com/obiwanconobi/PITS/main/MainMenu1.png
+
+**Device Information Dialog**
+![Dialog for Device Management](https://raw.githubusercontent.com/obiwanconobi/PITS/main/DeviceInfo1.png
+
