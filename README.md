@@ -36,3 +36,9 @@ Created by me, for me. But will eventually open source.
 **Device Information Dialog**
 ![Dialog for Device Management](https://raw.githubusercontent.com/obiwanconobi/PITS/main/DeviceInfo1.png)
 
+**CPU Load**
+![Dialog for CPU Load](https://raw.githubusercontent.com/obiwanconobi/PITS/main/CPULoad.png)
+
+**Disk Information**
+![Dialog for Disk Information](https://raw.githubusercontent.com/obiwanconobi/PITS/main/DiskInfo1.png)
+
