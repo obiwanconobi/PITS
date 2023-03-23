@@ -71,4 +71,4 @@ The ticketing system needs work. Tickets can be created via the Windows app, or 
 ![Dialog for Installed Apps](https://raw.githubusercontent.com/obiwanconobi/PITS/main/installedAppsSearch.png)
 
 **Ticket Dialog**
-![Dialog for replying to Tickets](https://raw.githubusercontent.com/obiwanconobi/PITS/main/TicketDialog.png)
+![Dialog for replying to Tickets](https://raw.githubusercontent.com/obiwanconobi/PITS/main/TicketDialog1.png)
