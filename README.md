@@ -18,7 +18,7 @@ Created by me, for me. But will eventually open source.
 
 **DB:** MySQL
 
-**Hosting:** Docker
+**Hosting:** Docker via Github actions
 
 
 ## Features
