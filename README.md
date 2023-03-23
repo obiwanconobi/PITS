@@ -45,7 +45,7 @@ The ticketing system needs work. Tickets can be created via the Windows app, or 
 
 ## Long way down the Road-map
 
-- Mobile app for approving tickets
+- Mobile app for admin approval of tickets, i.e. for application installs
 
 - Remote Desktop for Windows machines
 
