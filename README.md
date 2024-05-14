@@ -16,6 +16,8 @@ The ticketing system needs work. Tickets can be created via the Windows app, or 
 
 **Web Client:** Blazor Server Side with Mudblazor Framework
 
+**SianglR** for communication with remote devices 
+
 **Web API:** ASP.NET Core 6.0, Entity Framework
 
 **Windows Desktop App:** Wpf 
